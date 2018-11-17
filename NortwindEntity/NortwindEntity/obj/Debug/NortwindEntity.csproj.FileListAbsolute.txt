@@ -8,3 +8,13 @@ C:\Users\bugra\Documents\Visual Studio 2013\Projects\EntityFramework_\NortwindEn
 C:\Users\bugra\Documents\Visual Studio 2013\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.csprojResolveAssemblyReference.cache
 C:\Users\bugra\Documents\Visual Studio 2013\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.exe
 C:\Users\bugra\Documents\Visual Studio 2013\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.pdb
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\NortwindEntity.exe.config
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.pdb
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\NortwindEntity.exe
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\NortwindEntity.pdb
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\EntityFramework.dll
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\EntityFramework.xml
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.csprojResolveAssemblyReference.cache
+C:\Users\WIN7\Documents\Visual Studio 2010\Projects\EntityFramework_\NortwindEntity\NortwindEntity\obj\Debug\NortwindEntity.exe
